@@ -1,0 +1,56 @@
+Z:\B\אינגלסברג בת שבע\core\myTask\obj\Debug\net6.0\myTask.csproj.AssemblyReference.cache
+Z:\B\אינגלסברג בת שבע\core\myTask\obj\Debug\net6.0\myTask.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\אינגלסברג בת שבע\core\myTask\obj\Debug\net6.0\myTask.AssemblyInfoInputs.cache
+Z:\B\אינגלסברג בת שבע\core\myTask\obj\Debug\net6.0\myTask.AssemblyInfo.cs
+Z:\B\אינגלסברג בת שבע\core\myTask\obj\Debug\net6.0\myTask.csproj.CoreCompileInputs.cache
+Z:\B\אינגלסברג בת שבע\core\myTask\obj\Debug\net6.0\myTask.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\אינגלסברג בת שבע\core\myTask\obj\Debug\net6.0\myTask.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\אינגלסברג בת שבע\core\myTask\bin\Debug\net6.0\appsettings.Development.json
+Z:\B\אינגלסברג בת שבע\core\myTask\bin\Debug\net6.0\appsettings.json
+Z:\B\אינגלסברג בת שבע\core\myTask\bin\Debug\net6.0\myTask.exe
+Z:\B\אינגלסברג בת שבע\core\myTask\bin\Debug\net6.0\myTask.deps.json
+Z:\B\אינגלסברג בת שבע\core\myTask\bin\Debug\net6.0\myTask.runtimeconfig.json
+Z:\B\אינגלסברג בת שבע\core\myTask\bin\Debug\net6.0\myTask.dll
+Z:\B\אינגלסברג בת שבע\core\myTask\bin\Debug\net6.0\myTask.pdb
+Z:\B\אינגלסברג בת שבע\core\myTask\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Z:\B\אינגלסברג בת שבע\core\myTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\אינגלסברג בת שבע\core\myTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\אינגלסברג בת שבע\core\myTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\אינגלסברג בת שבע\core\myTask\obj\Debug\net6.0\staticwebassets.build.json
+Z:\B\אינגלסברג בת שבע\core\myTask\obj\Debug\net6.0\staticwebassets.development.json
+Z:\B\אינגלסברג בת שבע\core\myTask\obj\Debug\net6.0\scopedcss\bundle\myTask.styles.css
+Z:\B\אינגלסברג בת שבע\core\myTask\obj\Debug\net6.0\myTask.csproj.CopyComplete
+Z:\B\אינגלסברג בת שבע\core\myTask\obj\Debug\net6.0\myTask.dll
+Z:\B\אינגלסברג בת שבע\core\myTask\obj\Debug\net6.0\refint\myTask.dll
+Z:\B\אינגלסברג בת שבע\core\myTask\obj\Debug\net6.0\myTask.pdb
+Z:\B\אינגלסברג בת שבע\core\myTask\obj\Debug\net6.0\myTask.genruntimeconfig.cache
+Z:\B\אינגלסברג בת שבע\core\myTask\obj\Debug\net6.0\ref\myTask.dll
+C:\Users\USER\Desktop\core\2023-12-26\MyProject\core_l1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\USER\Desktop\core\2023-12-26\MyProject\core_l1\bin\Debug\net6.0\appsettings.json
+C:\Users\USER\Desktop\core\2023-12-26\MyProject\core_l1\bin\Debug\net6.0\myTask.exe
+C:\Users\USER\Desktop\core\2023-12-26\MyProject\core_l1\bin\Debug\net6.0\myTask.deps.json
+C:\Users\USER\Desktop\core\2023-12-26\MyProject\core_l1\bin\Debug\net6.0\myTask.runtimeconfig.json
+C:\Users\USER\Desktop\core\2023-12-26\MyProject\core_l1\bin\Debug\net6.0\myTask.dll
+C:\Users\USER\Desktop\core\2023-12-26\MyProject\core_l1\bin\Debug\net6.0\myTask.pdb
+C:\Users\USER\Desktop\core\2023-12-26\MyProject\core_l1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\USER\Desktop\core\2023-12-26\MyProject\core_l1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\Desktop\core\2023-12-26\MyProject\core_l1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\Desktop\core\2023-12-26\MyProject\core_l1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER\Desktop\core\2023-12-26\MyProject\core_l1\obj\Debug\net6.0\myTask.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\core\2023-12-26\MyProject\core_l1\obj\Debug\net6.0\myTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\core\2023-12-26\MyProject\core_l1\obj\Debug\net6.0\myTask.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\core\2023-12-26\MyProject\core_l1\obj\Debug\net6.0\myTask.AssemblyInfo.cs
+C:\Users\USER\Desktop\core\2023-12-26\MyProject\core_l1\obj\Debug\net6.0\myTask.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\core\2023-12-26\MyProject\core_l1\obj\Debug\net6.0\myTask.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Desktop\core\2023-12-26\MyProject\core_l1\obj\Debug\net6.0\myTask.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\core\2023-12-26\MyProject\core_l1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\USER\Desktop\core\2023-12-26\MyProject\core_l1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\USER\Desktop\core\2023-12-26\MyProject\core_l1\obj\Debug\net6.0\scopedcss\bundle\myTask.styles.css
+C:\Users\USER\Desktop\core\2023-12-26\MyProject\core_l1\obj\Debug\net6.0\myTask.csproj.CopyComplete
+C:\Users\USER\Desktop\core\2023-12-26\MyProject\core_l1\obj\Debug\net6.0\myTask.dll
+C:\Users\USER\Desktop\core\2023-12-26\MyProject\core_l1\obj\Debug\net6.0\refint\myTask.dll
+C:\Users\USER\Desktop\core\2023-12-26\MyProject\core_l1\obj\Debug\net6.0\myTask.pdb
+C:\Users\USER\Desktop\core\2023-12-26\MyProject\core_l1\obj\Debug\net6.0\myTask.genruntimeconfig.cache
+C:\Users\USER\Desktop\core\2023-12-26\MyProject\core_l1\obj\Debug\net6.0\ref\myTask.dll
+C:\Users\USER\Desktop\core\2023-12-26\MyProject\core_l1\bin\Debug\net6.0\task.json
+C:\Users\USER\Desktop\core\2023-12-26\MyProject\core_l1\bin\Debug\net6.0\myTask.staticwebassets.runtime.json

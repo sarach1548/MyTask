@@ -1,0 +1,7 @@
+Z:\Handasa\B\אינגלסברג בת שבע\core\homework\obj\Debug\net5.0.0\myTask.csproj.AssemblyReference.cache
+Z:\Handasa\B\אינגלסברג בת שבע\core\homework\obj\Debug\net5.0.0\myTask.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Handasa\B\אינגלסברג בת שבע\core\homework\obj\Debug\net5.0.0\myTask.AssemblyInfoInputs.cache
+Z:\Handasa\B\אינגלסברג בת שבע\core\homework\obj\Debug\net5.0.0\myTask.AssemblyInfo.cs
+Z:\Handasa\B\אינגלסברג בת שבע\core\homework\obj\Debug\net5.0.0\myTask.csproj.CoreCompileInputs.cache
+Z:\Handasa\B\אינגלסברג בת שבע\core\homework\obj\Debug\net5.0.0\myTask.MvcApplicationPartsAssemblyInfo.cs
+Z:\Handasa\B\אינגלסברג בת שבע\core\homework\obj\Debug\net5.0.0\myTask.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,14 @@
+Z:\B\אינגלסברג בת שבע\core\homework\.NetCoreHomework-main\obj\Debug\net5.0\myTask.csproj.AssemblyReference.cache
+Z:\B\אינגלסברג בת שבע\core\homework\.NetCoreHomework-main\obj\Debug\net5.0\myTask.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\אינגלסברג בת שבע\core\homework\.NetCoreHomework-main\obj\Debug\net5.0\myTask.AssemblyInfoInputs.cache
+Z:\B\אינגלסברג בת שבע\core\homework\.NetCoreHomework-main\obj\Debug\net5.0\myTask.AssemblyInfo.cs
+Z:\B\אינגלסברג בת שבע\core\homework\.NetCoreHomework-main\obj\Debug\net5.0\myTask.csproj.CoreCompileInputs.cache
+Z:\B\אינגלסברג בת שבע\core\homework\.NetCoreHomework-main\obj\Debug\net5.0\myTask.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\אינגלסברג בת שבע\core\homework\.NetCoreHomework-main\obj\Debug\net5.0\myTask.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\אינגלסברג בת שבע\core\homework\obj\Debug\net5.0\myTask.csproj.AssemblyReference.cache
+Z:\B\אינגלסברג בת שבע\core\homework\obj\Debug\net5.0\myTask.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\אינגלסברג בת שבע\core\homework\obj\Debug\net5.0\myTask.AssemblyInfoInputs.cache
+Z:\B\אינגלסברג בת שבע\core\homework\obj\Debug\net5.0\myTask.AssemblyInfo.cs
+Z:\B\אינגלסברג בת שבע\core\homework\obj\Debug\net5.0\myTask.csproj.CoreCompileInputs.cache
+Z:\B\אינגלסברג בת שבע\core\homework\obj\Debug\net5.0\myTask.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\אינגלסברג בת שבע\core\homework\obj\Debug\net5.0\myTask.MvcApplicationPartsAssemblyInfo.cache
